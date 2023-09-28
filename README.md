@@ -1,2 +1,2 @@
 # Kenneth
-KodeKloud Training Certificate
+Training Certificate
